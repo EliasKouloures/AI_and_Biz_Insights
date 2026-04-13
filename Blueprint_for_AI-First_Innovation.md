@@ -1,7 +1,7 @@
 # Mastering the AI Disruption: A Blueprint for AI-First Innovation
 
 ## 🚀 Executive Summary
-The transition to an AI-driven economy is as fundamental as the shift to the internet. Dan Martell and his team at Martell Ventures argue that the future belongs to "AI-first" companies, not just software companies with AI wrappers. To survive this disruption, leaders must mandate AI literacy across their entire workforce, shift their focus from executing tasks to designing systems, and adopt a "Blue Ocean" strategy for AI product development. 
+The transition to an AI-driven economy is as fundamental as the shift to the internet. The future belongs to "AI-first" companies, not just software companies with AI wrappers. To survive this disruption, leaders must mandate AI literacy across their entire workforce, shift their focus from executing tasks to designing systems, and adopt a "Blue Ocean" strategy for AI product development. 
 
 ---
 
