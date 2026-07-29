@@ -7,7 +7,9 @@ Some wisdom is from me, some from others whom I admire.
 
 
 ## Open-Source
-I believe in sharing is caring. Feel free to use, download & share everything in here because I made it my mission to help elevate humanity to a Kardashev Civilisation.
+I believe in sharing is caring. Use, download, adapt and share anything in here. No permission needed, no account, no cost.
+
+Knowledge that stays locked up compounds for nobody. My aim is to help as many people as possible keep up with what AI is doing to work and learning, and that only scales if the material is free and improvable by others.
 
 
 ## License & Reuse
