@@ -518,7 +518,7 @@ Therefore the ideal sequence is:
 Whenever an agent is asked questions such as:
 
 - "What should I work on next?"
-- "Which Galapagos use case should we prioritize?"
+- "Which use case should we prioritize?"
 - "Which bug should I fix?"
 - "Is this AI automation worth building?"
 - "Which backlog item has the highest ROI?"
@@ -554,7 +554,7 @@ Do not create fake precision.
 
 Apply this framework separately for every customer.
 
-For example, a high-value Galapagos priority may be irrelevant to Wikimedia.
+For example, a high-value priority for one department or customer may be irrelevant to a different one.
 
 Always account for:
 
